@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+## 📈 Page View
+<img src="https://count.getloli.com/get/@terminator-128:github?theme=rule34">
+
 <!--
 **terminator-128/terminator-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
